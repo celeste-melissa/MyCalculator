@@ -1,4 +1,4 @@
-// This program is a meant to function as a calculator.
+// This program is  meant to function as a calculator.
 // The goal of this project was to help me better understand methods.
 public class Calculator {
     public Calculator(){
